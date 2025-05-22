@@ -2,7 +2,7 @@
 <div align="center">
  <h3>Hello, I'm Otávio Silva Magalhães </h3>
 </div>
-<p align="center">I ❤️ solving challenges using tech. <br><br>  I am <strong>passionate about discovering new technologies</strong> and use them to create high quality <strong>solutions</strong>. <br><br>Currently, I'm a <strong>engineer student</strong> focused on data analytics and web development.</p>&nbsp;
+<p align="center">I ❤️ solving challenges using tech. <br><br>  I am <strong>passionate about discovering new technologies</strong> and use them to create high quality <strong>solutions</strong>. <br><br>Currently, I'm a <strong>software engineer student</strong> focused on data analytics and web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=otaviosilvamagalhaes&theme=radical&mode=weekly" />
