@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=top"/>
-
-### Hello, I'm Otávio Silva Magalhães
-
+<div align="center">
+ <h3>Hello, I'm Otávio Silva Magalhães </h3>
+</div>
 <p align="center">I ❤️ solving challenges using tech. <br><br>  I am <strong>passionate about discovering new technologies</strong> and use them to create high quality <strong>solutions</strong>. <br><br>Currently, I'm a <strong>engineer student</strong> focused on data analytics and web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
